@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+#heading {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+
+p {
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: green;
+}
+
